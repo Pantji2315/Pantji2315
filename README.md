@@ -15,8 +15,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am btech cse 3rd year student <br>MERN STACK developer <br>learning deveops and integration of Ai in web development  <br>
 
+Hi, I'm Himanshu pant
+
+🎓 3rd year Btech cse student 
+💻 Aspiring Software Engineer | Mern Stack developer
+🚀 Passionate about building scalable, real-time & AI-powered systems
+
+🧠 Currently Learning & Exploring:
+⚙️ Full-Stack Web Development
+📊 DSA with Java
+🚢 DevOps (CI/CD, Docker, Cloud Basics)
+🤖 AI & Generative AI
+🖧 MCP Server Concepts
+⚡ Real-Time Systems (Socket.IO)
+
+🛠️ Tech Stack & Tools:
+🎨 HTML | CSS | JavaScript | Bootstrap 
+⚛️ React.js | redux 
+🌐 Node.js | Express.js
+🗄️ MongoDB
+☕ Java (DSA)
+
+
+🎯 Goals:
+🌱 Build production-ready applications
+🏗️ Master backend & microservices
+🤖 Work on AI-driven systems
+🏆 Crack top internships & grow as an engineer
+
+✨ Philosophy:
+"Give 100% to work ,work with honesty 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-pant-478079219?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Himanshupa12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshupant2315@gmail.com) 
