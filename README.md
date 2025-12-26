@@ -18,33 +18,33 @@ Here are some ideas to get you started:
 
 Hi, I'm Himanshu pant
 
-🎓 3rd year Btech cse student 
-💻 Aspiring Software Engineer | Mern Stack developer
+🎓 3rd year Btech cse student <br>
+💻 Aspiring Software Engineer | Mern Stack developer <br>
 🚀 Passionate about building scalable, real-time & AI-powered systems
-
-🧠 Currently Learning & Exploring:
-⚙️ Full-Stack Web Development
-📊 DSA with Java
-🚢 DevOps (CI/CD, Docker, Cloud Basics)
-🤖 AI & Generative AI
-🖧 MCP Server Concepts
-⚡ Real-Time Systems (Socket.IO)
-
+<br><br>
+🧠 Currently Learning & Exploring:<br><br>
+⚙️ Full-Stack Web Development<br>
+📊 DSA with Java<br>
+🚢 DevOps (CI/CD, Docker, Cloud Basics)<br>
+🤖 AI & Generative AI<br>
+🖧 MCP Server Concepts<br>
+⚡ Real-Time Systems (Socket.IO)<br>
+<br>
 🛠️ Tech Stack & Tools:
-🎨 HTML | CSS | JavaScript | Bootstrap 
-⚛️ React.js | redux 
-🌐 Node.js | Express.js
-🗄️ MongoDB
+🎨 HTML | CSS | JavaScript | Bootstrap <br>
+⚛️ React.js | redux <br>
+🌐 Node.js | Express.js<br>
+🗄️ MongoDB<br>
 ☕ Java (DSA)
-
+<br><br>
 
 🎯 Goals:
-🌱 Build production-ready applications
-🏗️ Master backend & microservices
-🤖 Work on AI-driven systems
-🏆 Crack top internships & grow as an engineer
+🌱 Build production-ready applications<br>
+🏗️ Master backend & microservices<br>
+🤖 Work on AI-driven systems<br>
+🏆 Crack top internships & grow as an engineer<br><br>
 
-✨ Philosophy:
+✨ Philosophy:<br>
 "Give 100% to work ,work with honesty 
 
 ## 🌐 Socials:
