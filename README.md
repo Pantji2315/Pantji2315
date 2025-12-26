@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 
 Hi, I'm Himanshu pant
-
+<br>
 🎓 3rd year Btech cse student <br>
 💻 Aspiring Software Engineer | Mern Stack developer <br>
 🚀 Passionate about building scalable, real-time & AI-powered systems
@@ -30,7 +30,7 @@ Hi, I'm Himanshu pant
 🖧 MCP Server Concepts<br>
 ⚡ Real-Time Systems (Socket.IO)<br>
 <br>
-🛠️ Tech Stack & Tools:
+🛠️ Tech Stack & Tools:<br>
 🎨 HTML | CSS | JavaScript | Bootstrap <br>
 ⚛️ React.js | redux <br>
 🌐 Node.js | Express.js<br>
