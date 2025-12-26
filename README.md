@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am btech cse 3rd year student <br>MERN STACK developer <br>Aspiring AI and ML engineer <br>
+I am btech cse 3rd year student <br>MERN STACK developer <br>learning deveops and integration of Ai in web development  <br>
 
 
 ## 🌐 Socials:
